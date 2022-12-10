@@ -1,5 +1,4 @@
-# CS547_Group7_DeepDive
-# Most Lucrative Industries
+# CS547 Group7 DeepDive: Most Lucrative Industries
 
 **Group Members:** Haoming Sun, Tianhua Tao, Zhihao Xu, Tingrong Zhang
 
