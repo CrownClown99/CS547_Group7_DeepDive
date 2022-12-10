@@ -8,3 +8,6 @@ Though many factors influence one’s choice of industry, wages stand out as one
 
 ### Data resource
 Data is avaliable from [official website](https://www.bls.gov/oes/tables.htm) or from [this repo](https://github.com/CrownClown99/CS547_Group7_DeepDive/tree/main/dataset)
+
+### Project Presentation
+You can find a presentation video from [this link](https://drive.google.com/file/d/1JgucmudLAGgz1KbTMEvSsGCvfJIuIk01/view?usp=sharing).
